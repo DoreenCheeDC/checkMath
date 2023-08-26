@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/dchubs/mathcheck.dc-hubc.com
+    - export DEPLOYPATH=/home/dchubs/mathcheck.dc-hubs.com
     - /bin/cp -a * $DEPLOYPATH
